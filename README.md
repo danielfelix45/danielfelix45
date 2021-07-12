@@ -10,5 +10,5 @@ I'm FullStack Developer, fascinated by learning and always looking for improveme
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfelix45&show_icons=true&locale=en&layout=compact=true&theme=radical" alt="danielfelix45" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danielfelix45=anuraghazra&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danielfelix45=anuraghazra&show_icons=true&theme=radical)
 
