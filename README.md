@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **felixdaniel-developr@outlook.com**
+- 📫 How to reach me **felixdaniel-developer@outlook.com**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
