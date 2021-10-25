@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **javascript, ReactJS**
 
-- 🤔 I’m looking for help with **ReactJS**
-
-- 💬 Ask me about **HTML, CSS**
-
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
 <p align="left">
