@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=danielfelix45&show_icons=true&theme-radical" alt="danielfelix"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix45&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 <p align="center">
