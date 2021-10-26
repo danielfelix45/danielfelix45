@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Félix</h1>
-<h3 align="center">A FullStack developer,fascinated by learning and always looking for improvement.</h3>
+<h3 align="center">A Front-End developer,fascinated by learning and always looking for improvement.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on autonomous
