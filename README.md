@@ -19,9 +19,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix45&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-felix-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielfelix" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/260214/daniel-félix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="danielfelix" height="20" width="20" /></a>
-</p>
+<h3 align="left">Connect with me:</h3>
+<div>  
+  <a href="https://www.linkedin.com/in/daniel-felix-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:felixdaniel-developer@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+
+
 
 
