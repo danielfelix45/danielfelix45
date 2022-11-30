@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>  
   <a href="https://www.linkedin.com/in/daniel-felix-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:felixdaniel-developer@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:felixdaniel-developer@outlook.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
  </div>
 
 
