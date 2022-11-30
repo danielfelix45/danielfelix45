@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on autonomous
 
-- 🌱 I’m currently learning **javascript, ReactJS**
+- 🌱 I’m currently learning **javascript, ReactJS, ReactNative**
 
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
