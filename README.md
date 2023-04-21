@@ -2,7 +2,6 @@
 <h3 align="center">A Full-Stack developer,fascinated by learning and always looking for improvement.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on autonomous
 
 - 🌱 I’m currently learning **C#, .NET Core, ASP.NET Core MVC, ReactJS**
 
