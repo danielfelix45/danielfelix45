@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Félix</h1>
-<h3 align="center">A Full-Stack developer,fascinated by learning and always looking for improvement.</h3>
+<h3 align="center">A Full-Stack developer, fascinated by learning and always looking for improvement.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 
