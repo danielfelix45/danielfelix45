@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Félix</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/danielfelix45/danielfelix45/master/hi.gif" width="30px">, I'm Daniel Félix</h1>
 <h3 align="center">A Full-Stack developer, fascinated by learning and always looking for improvement.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
 
 
 - 🌱 I’m currently learning **C#, .NET Core, ASP.NET Core MVC, ReactJS**
