@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
-<img src="https://github.com/seu-usuário-aqui/danielfelix45/blob/output/github-contribution-grid-snake.svg"/>
+<img height="100%" src="https://github.com/seu-usuário-aqui/danielfelix45/blob/output/github-contribution-grid-snake.svg"/>
 - ![Snake animation]()
 
 <div align="left">
