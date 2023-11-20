@@ -8,7 +8,7 @@
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfelix45&show_icons=true&theme=dark&hide=stars,commits&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfelix45&show_icons=true&theme=dark&hide=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix45&layout=compact&langs_count=7&theme=dark"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
