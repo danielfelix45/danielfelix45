@@ -13,6 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfelix45&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfelix45)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix45&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
