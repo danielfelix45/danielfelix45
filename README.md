@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
 
 
-- 🌱 I’m currently learning **C#, .NET Core, ASP.NET Core MVC, ReactJS**
+- 🌱 I’m currently learning **C#, .NET, ASP.NET Core, ReactJS**
 
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
