@@ -2,7 +2,6 @@
 <h3 align="center">A Full-Stack developer, fascinated by learning and always looking for improvement.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
 
-
 - 🌱 Skills **C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server**
 
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
@@ -18,11 +17,8 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<div>  
-  <a href="https://www.linkedin.com/in/daniel-felix-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:felixdaniel-developer@outlook.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=blue" target="_blank"></a>
- </div>
-
-
-
-
+<div>
+  <a href="https://www.dio.me/users/felixdaniel9"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-felix-developer/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:felixdaniel-developer@outlook.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=blue" target="_blank"></a>
+</div>
