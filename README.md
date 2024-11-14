@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack developer, fascinated by learning and always looking for improvement.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
 
-- 🌱 Skills **C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server**
+- 🌱 Skills **Excel, Power BI, Python, C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server, MySQL**
 
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
