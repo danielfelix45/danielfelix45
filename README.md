@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Daniel Félix</h1>
-<h3 align="center">A Full-Stack developer, fascinated by learning and always looking for improvement.</h3>
+<h3 align="center">Data Analyst in training, transforming data into insights to drive real decisions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
 
 - 🌱 Skills **Excel, Power BI, Python, C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server, MySQL**
