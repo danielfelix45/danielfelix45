@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst in training, transforming data into insights to drive real decisions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
 
-- 🌱 Skills **Excel, Power BI, Python, C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server, MySQL**
+- 🌱 Skills **Excel, Power BI, NodeJS, C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server, MySQL**
 
 - 📫 How to reach me **felixdaniel-developer@outlook.com**
 
