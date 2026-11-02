@@ -1,24 +1,44 @@
-<h1 align="left">Hi, I'm Daniel Félix</h1>
-<h3 align="center">Data Analyst in training, transforming data into insights to drive real decisions.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfelix45" alt="danielfelix45" /> </p>
+# Olá, eu sou Daniel Félix 👋
 
-- 🌱 Skills **Excel, Power BI, NodeJS, C#, .NET, ASP.NET Core, Javascript, ReactJS, SQL Server, MySQL**
+Desenvolvedor Backend com foco em **Node.js e TypeScript**, desenvolvendo APIs REST, autenticação, controle de acesso e integração com bancos de dados relacionais.
 
-- 📫 How to reach me **felixdaniel-developer@outlook.com**
+Atualmente estou concluindo a graduação em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de aplicações backend organizadas, seguras e voltadas à resolução de problemas reais.
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfelix45&show_icons=true&theme=dark&hide=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfelix45&layout=compact&langs_count=7&theme=dark"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="html5"  width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</div>
+Também sou **Técnico em Eletromecânica**, com experiência em manutenção industrial, diagnóstico de falhas e resolução de problemas técnicos — uma trajetória que contribuiu para desenvolver meu raciocínio analítico e abordagem prática na solução de problemas.
 
-<h3 align="left">Connect with me:</h3>
-<div>
-  <a href="https://www.dio.me/users/felixdaniel9"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-felix-developer/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felixdaniel-developer@outlook.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=blue" target="_blank"></a>
-</div>
+## 🛠️ Tecnologias
+
+- **Backend:** Node.js, TypeScript, JavaScript, Express
+- **Banco de dados:** PostgreSQL, SQL
+- **ORM:** TypeORM
+- **Autenticação:** JWT, RBAC
+- **Testes:** Jest
+- **DevOps e ferramentas:** Docker, Git, GitHub
+
+## 🚀 Projetos em destaque
+
+### 🏥 MedClinic API
+API REST para gerenciamento de uma clínica médica, desenvolvida com **Node.js, TypeScript, Express, PostgreSQL e TypeORM**.
+
+Implementa autenticação JWT, controle de acesso baseado em perfis (RBAC), migrations, tratamento centralizado de erros, testes automatizados e containerização com Docker.
+
+### 📚 Study Tracker API
+API desenvolvida com **Node.js e TypeScript** para gerenciamento e acompanhamento de estudos, aplicando organização de código, persistência de dados e testes automatizados.
+
+### 📖 BookStore Manager CLI
+Aplicação de linha de comando desenvolvida em **TypeScript** para gerenciamento de uma livraria, trabalhando regras de negócio, organização da aplicação e persistência de dados.
+
+### 📊 Dashboard Agro
+Projeto de análise e visualização de dados do agronegócio utilizando **Power BI**, desenvolvido para transformar dados em informações de apoio à análise e tomada de decisão.
+
+## 🎯 Atualmente
+
+- Aprimorando meus conhecimentos em desenvolvimento Backend
+- Desenvolvendo APIs REST com Node.js e TypeScript
+- Aprofundando conhecimentos em bancos de dados, testes e arquitetura de aplicações
+- Concluindo a graduação em Análise e Desenvolvimento de Sistemas
+
+## 📫 Contato
+
+- **LinkedIn:** linkedin.com/in/daniel-antonio-felix/
+- **E-mail:** felixdaniel-developer@outlook.com
