@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend com foco em **Node.js e TypeScript**, desenvolvendo APIs REST, autenticação, controle de acesso e integração com bancos de dados relacionais.
 
-Atualmente estou concluindo a graduação em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de aplicações backend organizadas, seguras e voltadas à resolução de problemas reais.
+Sou **graduado em Análise e Desenvolvimento de Sistemas** e concluí também a formação pelo **SCTEC**. O diploma e os respectivos certificados encontram-se apenas pendentes de emissão.
 
 Também sou **Técnico em Eletromecânica**, com experiência em manutenção industrial, diagnóstico de falhas e resolução de problemas técnicos — uma trajetória que contribuiu para desenvolver meu raciocínio analítico e abordagem prática na solução de problemas.
 
@@ -36,7 +36,7 @@ Projeto de análise e visualização de dados do agronegócio utilizando **Power
 - Aprimorando meus conhecimentos em desenvolvimento Backend
 - Desenvolvendo APIs REST com Node.js e TypeScript
 - Aprofundando conhecimentos em bancos de dados, testes e arquitetura de aplicações
-- Concluindo a graduação em Análise e Desenvolvimento de Sistemas
+- Desenvolvendo projetos para consolidar minha experiência prática em desenvolvimento de software
 
 ## 📫 Contato
 
