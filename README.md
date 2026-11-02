@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend com foco em **Node.js e TypeScript**, desenvolvendo APIs REST, autenticação, controle de acesso e integração com bancos de dados relacionais.
 
-Sou **graduado em Análise e Desenvolvimento de Sistemas** e concluí também a formação pelo **SCTEC**. O diploma e os respectivos certificados encontram-se apenas pendentes de emissão.
+Sou **graduado em Análise e Desenvolvimento de Sistemas** e concluí a formação em **Desenvolvimento de Software Back-end com Node.js pelo SCTEC, ministrada pelo SENAI/LAB365**.
 
 Também sou **Técnico em Eletromecânica**, com experiência em manutenção industrial, diagnóstico de falhas e resolução de problemas técnicos — uma trajetória que contribuiu para desenvolver meu raciocínio analítico e abordagem prática na solução de problemas.
 
